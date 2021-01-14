@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="title_activity_news_detail">NewsDetailActivity</string>
+</resources>
